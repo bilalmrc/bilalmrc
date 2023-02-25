@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi, I'm Bilal backend developer.
+### Hi, I'm Bilal Fullstack Developer.
 
 
 ### Languages and Skills:
