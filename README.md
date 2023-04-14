@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### Hi, I'm Bilal Fullstack Developer.
-
+### Hi, I'm Bilal, a developer and wannabe hacker.
 
 ### Languages and Skills:
 
