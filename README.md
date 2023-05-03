@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi, I'm Bilal, a developer and wannabe hacker.
+### Hey, I'm Bilal, a self-taught developer.
 
 ### Languages and Skills:
 
